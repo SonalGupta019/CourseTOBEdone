@@ -1,55 +1,10 @@
-Skip to Content
-Robotics With Python
-Robotics With Python
-
-WE CODE YOU RULE
-
-Phone
-+919997782184
-
-Email
-support@roboticswithpython.com
-
-Geeks of Coding
-Join us on Telegram
-
-HOME BLOG
-ARTIFICIAL INTELLIGENCE
-MACHINE LEARNING
-SUPERVISED LEARNING
-UNSUPERVISED LEARNING
-SEMI-SUPERVISED LEARNING
-REINFORCEMENT LEARNING
-DEEP LEARNING
-CONVOLUTIONAL NEURAL NETWORK (CNN)
-BAG OF WORDS (BOW) ALGORITHM NLP
-TF – IDF NATURAL LANGUAGE PROCESSING (NLP)
-WORD-2-VEC NATURAL LANGUAGE PROCESSING (NLP)
-AERIAL ROBOTICS & DRONES
-INTERNET OF THINGS
-INDUSTRIAL INTERNET OF THINGS
-SIAMESE NEURAL NETWORK
-EXAMPLE CODE FOR SIAMESE NEURAL NETWORK
- SOURCE CODE
-CODY BANK
-ASSIGNMENT COURSERRA
-ASSIGNMENT NPTEL_
- PROGRAMS CONTACT US CONTRIBUTE ABOUT US LOGIN
-  
 Week 6 Peer-graded Assignment: The best classifier
 Home  TopicsWeek 6 Peer-graded Assignment: The best classifier
 Home › Forums › Assignment courserra › IBM AI Engineering Professional Certificate › Machine Learning with Python › Week 6 Peer-graded Assignment: The best classifier
 
 Tagged: Graded Assignment, IBM, Independent Linear Regression, Machine Learning, Python, Regression
 
-This topic has 0 replies, 1 voice, and was last updated 1 year, 8 months ago by Abhishek TyagiAbhishek Tyagi.
-Viewing 0 reply threads
-Author
-Posts
-July 4, 2020 at 10:43 am#838
-Abhishek Tyagi
-Abhishek Tyagi
-Keymaster
+
 Now that you have been equipped with the skills to use different Machine Learning algorithms, over the course of five weeks, you will have the opportunity to practice and apply it on a dataset. In this project, you will complete a notebook where you will build a classifier to predict whether a loan case will be paid off or not.
 
 You load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models:
